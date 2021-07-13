@@ -1,5 +1,5 @@
 <?php 
-$con = new mysqli("sql12.freemysqlhosting.net","sql12364057","K6Gsy1QZwX","sql12364057");
+$con = new mysqli("sql12.freemysqlhosting.net","sql6424819","UTnQW1R3Gm","sql6424819");
 
 // Check connection
 if ($con -> connect_errno) {
